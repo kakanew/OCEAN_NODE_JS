@@ -1,8 +1,8 @@
-## [OCEAN Samsung](http://oceanbrasil.com/) 
+# [OCEAN Samsung](http://oceanbrasil.com/) 
 
 ## [Node JS](https://github.com/kakanew/OCEAN_NODE_JS)
 
-# [Backend com NodeJs e Express (Parte 1)](https://github.com/kakanew/OCEAN_NODE_JS/tree/master/Backend_NodeJs_Express)
+### [Backend com NodeJs e Express (Parte 1)](https://github.com/kakanew/OCEAN_NODE_JS/tree/master/Backend_NodeJs_Express)
 
 - [x] O que exatamente é backend?
 - [x] Evolução do Backend
